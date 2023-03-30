@@ -1,4 +1,4 @@
-package br.com.viacep.api;
+package br.com.viacep;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
